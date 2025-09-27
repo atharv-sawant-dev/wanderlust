@@ -30,4 +30,5 @@ Screenshots
 
 ![Image_Alt](https://github.com/atharv-sawant-dev/wanderlust/blob/9c840e15ef80459eecf6825e3f6564f8dbd0ad02/Screenshot%20(448).png)
 
+![Image_Alt](https://github.com/atharv-sawant-dev/wanderlust/blob/93656d2cd49d8b9965bdd590fbe05b45b96ccf16/Screenshot%20(449).png)
 
