@@ -19,3 +19,5 @@ ________________________________________
 Wanderlust is built as a learning project to understand full-stack web development concepts including authentication, database modeling, RESTful routes, and deployment.
 ________________________________________
 
+Screenshots
+![Image_Alt](https://github.com/atharv-sawant-dev/wanderlust/blob/4ec88d638711033fe076f6f721c821c97f1b307f/Screenshot%20(444).png)
